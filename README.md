@@ -1,4 +1,5 @@
 Q.1. what is the difference between Props and State?
+
 Ans:Finally, let’s recap and see the main differences between props and state:
 
 Components receive data from outside with props, whereas they can create and manage their own data with state
@@ -9,10 +10,12 @@ Props can only be passed from parent component to child (unidirectional flow)
 Modifying state should happen with the setState ( ) method
 React.js is one today's of the most widely used JavaScript libraries that every front-end developer should know.
 
-Q.2.Explain the useState API? explore 
+Q.2.Explain the useState API? explore
+
 Ans:The state of your application is bound to change at some point. This could be the value of a variable, an object, or whatever type of data exists in your component.To make it possible to have the changes reflected in the DOM, we have to use a React hook called useState. It looks like this:
 
 Q.3.Explain the how map, filter, reduce work.
+
 Map:- The map() method is used for creating a new array from an existing one, applying a function to each one of the elements of the first array.
 
 Syntax:
